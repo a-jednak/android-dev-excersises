@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Aplikacja Czwarta</string>
+    <string name="main">All tasks completed</string>
+    <string name="sub_text">Nice work!</string>
+</resources>
